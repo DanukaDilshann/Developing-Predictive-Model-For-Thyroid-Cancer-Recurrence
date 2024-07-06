@@ -42,7 +42,7 @@ The dataset contains the following variables:
 - Multifocal cancer increases the risk of recurrence.
 
 ## Repository Structure
-- `Data/`: Dataset
+- `Data/`: Dataset [Thyroid Cancer Recurrence](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data)
 - `Notebooks/`: Jupyter notebooks for data analysis.
 - `Reports/`: Model Comparisons.
 
