@@ -34,12 +34,20 @@ The dataset contains the following variables:
 - Random Forest
 
 ## Key Findings
-- **Support Vector Machine (SVM)** emerged as the top performer with an accuracy of **97%**.
-- **Logistic Regression** and **Random Forest** both achieved an accuracy of **96%**.
-- **K-Nearest Neighbors (KNN)** achieved an accuracy of **92%**.
-- Smoking is a significant risk factor for recurrence.
-- Higher cancer stages are associated with lower treatment response rates.
-- Multifocal cancer increases the risk of recurrence.
+- The SVM model achieved a 97% accuracy level, surpassing the accuracies of the other 
+models.
+- Additionally, our findings reveal a significant association between smoking and thyroid 
+cancer recurrence. Patients who smoke have a higher likelihood of experiencing a 
+recurrence.
+- Further, patients with high stage thyroid cancer experience a lower response rate to the 
+treatment compared to the other stage patients. 
+- Moreover, patients with cancer present in multiple locations have a higher risk of thyroid 
+cancer recurrence.
+- However, there is no observed association between the type of thyroid function 
+(hypothyroidism or hyperthyroidism) and the recurrence of thyroid cancer.
+- Furthermore, younger patients show a notably better response to treatment compared to 
+other age groups.
+
 
 ## Repository Structure
 - `Data/`: Dataset [Thyroid Cancer Recurrence](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data)
