@@ -38,6 +38,15 @@ The dataset contains the following variables:
 - Support Vector Machine (SVM)
 - Random Forest
 
+
+#### Other Statistical Techniques Used: 
+   - Chi-Square Test: Perform a chi-square test to determine if there is a significant 
+    association between categorical variables.
+    
+   - Kruscal wallis test: Kruskal Wallis test is a non-parametric method.it used to compare three or more independent 
+      groups of sampled data and determine if there are statistically significant difference between 
+       their medians. 
+
 ## Key Findings
 - The SVM model achieved a 97% accuracy level, surpassing the accuracies of the other 
 models.
