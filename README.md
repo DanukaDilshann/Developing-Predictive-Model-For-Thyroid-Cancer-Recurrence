@@ -17,7 +17,11 @@ The dataset contains the following variables:
 - Cancer stage
 - Treatment response
 - Recurrence status
-
+  
+## Data Preprocessing
+- No missing values were found.
+- 19 duplicate records were removed, leaving **364 unique patient records**.
+  
 ## Machine Learning Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
