@@ -21,7 +21,12 @@ The dataset contains the following variables:
 ## Data Preprocessing
 - No missing values were found.
 - 19 duplicate records were removed, leaving **364 unique patient records**.
-  
+  - #### Handling Data Imbalance
+  The dataset exhibited an imbalance between the number of recurrent and non-recurrent cases. 
+  To address this, we employed the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE synthesizes new examples from the minority class to 
+  achieve a balanced dataset, improving the performance of the machine learning models.
+  - #### One-Hot Encoding
+   To handle categorical variables, we applied one-hot encoding to convert them into a format suitable for machine learning algorithms.
 ## Machine Learning Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
