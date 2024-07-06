@@ -42,11 +42,9 @@ The dataset contains the following variables:
 - Multifocal cancer increases the risk of recurrence.
 
 ## Repository Structure
-- `Data/`: Dataset and preprocessing scripts.
+- `Data/`: Dataset
 - `Notebooks/`: Jupyter notebooks for data analysis.
-- `Models/`: Saved models.
-- `Reports/`: Reports and visualizations.
-- `Scripts/`: Python scripts for data processing and model training.
+- `Reports/`: Model Comparisons.
 
 ## How to Use
 1. Clone the repository.
