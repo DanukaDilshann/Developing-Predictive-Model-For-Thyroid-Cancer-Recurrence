@@ -3,10 +3,15 @@
 ## Overview
 This project aims to develop a predictive model for the recurrence of well-differentiated thyroid cancer using machine learning techniques. The dataset includes 17 variables from 383 patients, collected over a 15-year period.
 
-## Objectives
-- Develop a predictive model for thyroid cancer recurrence.
-- Enhance diagnostic accuracy and early detection.
-- Improve patient management and treatment planning.
+## Objective
+The objective is to develop a predictive model for the recurrence of well-differentiated thyroid 
+cancer using machine learning techniques.
+
+## Significance of the Study
+Developing a machine learning model can significantly enhance diagnostic accuracy and early 
+detection of thyroid cancer, thereby improving patient treatment outcomes and management. 
+Integrating this model into clinical practice will aid healthcare professionals in making informed 
+decisions and optimizing treatment plans.
 
 ## Dataset
 The dataset contains the following variables:
