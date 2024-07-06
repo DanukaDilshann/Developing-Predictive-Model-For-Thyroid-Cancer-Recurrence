@@ -29,7 +29,9 @@ The dataset contains the following variables:
 - Random Forest
 
 ## Key Findings
-- SVM model achieved the highest accuracy (97%).
+- **Support Vector Machine (SVM)** emerged as the top performer with an accuracy of **97%**.
+- **Logistic Regression** and **Random Forest** both achieved an accuracy of **96%**.
+- **K-Nearest Neighbors (KNN)** achieved an accuracy of **92%**.
 - Smoking is a significant risk factor for recurrence.
 - Higher cancer stages are associated with lower treatment response rates.
 - Multifocal cancer increases the risk of recurrence.
