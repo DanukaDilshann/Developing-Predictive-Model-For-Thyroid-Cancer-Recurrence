@@ -4,8 +4,8 @@
 
 |            | Precision         |       Recall  |    F1- Score      |
 |------------|-------------------|---------------|-------------------|
-| 0          | 97%               | 97%           |       88          |
-| 1          | 96%               | 96%           |      88           |
+| 0          | 0.99              | 0.96          |      0.98          |
+| 1          | 0.90               | 0.96           |      0.93           |
 |            |                   |               |                   |
 | Accuracy   |                                                0.96   |
 
@@ -13,38 +13,38 @@
 ## Support Vector Machine (SVM)
 |            | Precision         |       Recall  |    F1- Score      |
 |------------|-------------------|---------------|-------------------|
-| 0          | 97%               | 97%           |       88          |
-| 1          | 96%               | 96%           |      88           |
+| 0          | 0.98               | 0.99           |       0.98          |
+| 1          | 0.96              | 0.93           |      0.95           |
 |            |                   |               |                   |
-| Accuracy   |                                                0.96   |
+| Accuracy   |                                               0.9727   |
 
 
 ## Random Forest
 |            | Precision         |       Recall  |    F1- Score      |
 |------------|-------------------|---------------|-------------------|
-| 0          | 97%               | 97%           |       88          |
-| 1          | 96%               | 96%           |      88           |
+| 0          | 0.98               | 0.98          |       0.98          |
+| 1          | 0.93               | 0.93           |      0.93           |
 |            |                   |               |                   |
-| Accuracy   |                                                0.96   |
+| Accuracy   |                                                0.9636   |
 
 
 ## K-Nearest Neighbors (KNN)
 |            | Precision         |       Recall  |    F1- Score      |
 |------------|-------------------|---------------|-------------------|
-| 0          | 97%               | 97%           |       88          |
-| 1          | 96%               | 96%           |      88           |
+| 0          | 0.94              | 0.95           |       0.95          |
+| 1          | 0.85               | 0.82           |      0.84           |
 |            |                   |               |                   |
-| Accuracy   |                                                0.96   |
+| Accuracy   |                                               0.9181  |
 
 
 ## Model Performance Comparison
 
 | Model                          | Training Accuracy | Test Accuracy |
 |--------------------------------|-------------------|---------------|
-| Support Vector Machine (SVM)   | 97%               | 97%           |
-| Logistic Regression            | 96%               | 96%           |
-| Random Forest                  | 96%               | 96%           |
-| K-Nearest Neighbors (KNN)      | 92%               | 92%           |
+| Support Vector Machine (SVM)   | 96%               | 97%           |
+| Logistic Regression            | 98%               | 96%           |
+| Random Forest                  | 1              | 96%           |
+| K-Nearest Neighbors (KNN)      | 1               | 92%           |
 
 
 After comparing all the techniques, we could observe that when we apply support vector 
