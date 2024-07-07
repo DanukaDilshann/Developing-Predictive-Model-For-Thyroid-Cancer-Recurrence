@@ -7,7 +7,7 @@
 | 0          | 0.99              | 0.96          |      0.98          |
 | 1          | 0.90               | 0.96           |      0.93           |
 |            |                   |               |                   |
-| Accuracy   |                                                0.96   |
+| Accuracy   |                                                0.9636   |
 
 
 ## Support Vector Machine (SVM)
