@@ -1,7 +1,7 @@
 # Studying Recurrence of Well-Differentiated Thyroid Cancer
 
 ## Overview
-This project aims to develop a predictive model for the recurrence of well-differentiated thyroid cancer using machine learning techniques. The dataset includes 17 variables from 383 patients, collected over a 15-year period.
+This document presents a comprehensive study aimed at developing a predictive model for the recurrence of well-differentiated thyroid cancer using machine learning techniques. It leverages various patient factors such as age, gender, smoking history, thyroid function, and cancer stage to build and evaluate different models. The study's core focus is on enhancing diagnostic accuracy, early detection, and optimized treatment planning in clinical practice, ultimately improving patient management and outcomes.
 
 ## Objective
 The objective is to develop a predictive model for the recurrence of well-differentiated thyroid 
