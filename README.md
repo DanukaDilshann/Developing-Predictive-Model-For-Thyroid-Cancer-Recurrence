@@ -19,7 +19,7 @@ The dataset contains the following variables:
 - Gender
 - Treatment response
 - Recurrence status 
-#### Additionally, the dataset includes 14 other variables.For a detailed description of all variables, see the [full variable description](https://github.com/DanukaDilshann/Predictive-Model-For-Thyroid-Cancer-Recurrence/blob/main/Data/Data%20Description.md).
+#### Additionally, the dataset includes 13 other variables.For a detailed description of all variables, see the [full variable description](https://github.com/DanukaDilshann/Predictive-Model-For-Thyroid-Cancer-Recurrence/blob/main/Data/Data%20Description.md).
 
 ## Data Preprocessing
 - No missing values were found.
