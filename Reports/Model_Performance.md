@@ -52,9 +52,9 @@ machine, it could achieve 97% accuracy on our test set. Therefore, we can conclu
 technique good for our dataset.
 By evaluating our SVM model as the best model, we can plot the ROC curve. The figure below 
 illustrates the ROC curve for the SVM model.
-
-<img src>    </img>
-
+<p align="center">
+ <img src="ROC curve for SVM.png" width=500 height=350>
+</p>
 According to the above figure, the curve is very close to the top left corner of the plot. This indicates 
 that the classifier has a high True Positive Rate and a low False Positive Rate. Also, it has an Area 
 Under Curve (AUC) value of 0.99390. Considering the AUC and the ROC curve, we can conclude that 
