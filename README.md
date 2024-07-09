@@ -1,18 +1,5 @@
 # Studying Recurrence of Well-Differentiated Thyroid Cancer
-<!-- Background image section -->
-<div style="background-image: url('https://github.com/DanukaDilshann/Developing-Predictive-Model-For-Thyroid-Cancer-Recurrence/blob/main/Images/images.jpeg?raw=true'); background-size: cover; padding: 20px; border-radius: 10px; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
 
-# Welcome to My Project
-
-This is a brief introduction to my project. Here you can add any Markdown content you like.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-</div>
-
-  
 ## Overview
 This document presents a comprehensive study aimed at developing a predictive model for the recurrence of well-differentiated thyroid cancer using machine learning techniques. It leverages various patient factors such as age, gender, smoking history, thyroid function, and cancer stage to build and evaluate different models. The study's core focus is on enhancing diagnostic accuracy, early detection, and optimized treatment planning in clinical practice, ultimately improving patient management and outcomes.
 
