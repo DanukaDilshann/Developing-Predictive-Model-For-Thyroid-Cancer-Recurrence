@@ -65,6 +65,7 @@ other age groups.
 - `Data/`: Dataset [Thyroid Cancer Recurrence](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data)
 - `Notebooks/`: Jupyter notebooks for data analysis.
 - `Reports/`: [Model Comparisons](https://github.com/DanukaDilshann/Predictive-Model-For-Thyroid-Cancer-Recurrence/blob/main/Reports/Model_Performance.md)
+- `Associations/`: [jdcjxc]()
 
 ## How to Use
 1. Clone the repository.
